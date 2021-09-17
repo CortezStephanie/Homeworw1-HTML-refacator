@@ -23,20 +23,20 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
-.header div {
+/* changed .header div to .header nav because of links used in html*/
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
-.header div ul {
+/* changed .header div ul to .header nav ul because I changed the parent to a nav semantic*/ 
+.header nav ul {
     list-style-type: none;
 }
-
-.header div ul li {
+/* Also changed the div to a nav due to parent child structure*/
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -194,7 +194,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+/* changed h2 to h4 to follow semantic structure*/
+.footer h4 {
     font-size: 20px;
 }
