@@ -12,4 +12,5 @@ I would like to thank the class mates that helped me. I couldn't have done it wi
 * Chamo
 * Alex
 
+![screenshot](assets/images/screencapture-file-Users-stephaniercortez-Desktop-Classwork-homework-Homeworw1-HTML-refacator-index-html-2021-09-17-00_31_16.png)
 
