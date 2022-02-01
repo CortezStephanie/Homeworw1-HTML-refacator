@@ -2,6 +2,8 @@
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+Deployed Link: [https://cortezstephanie.github.io/Refactoring-Html/](https://cortezstephanie.github.io/Refactoring-Html/)
+
 ## My changes to the code 
 
 There wasn't proper semantics in place in this code. Which made it difficult for the user to differentiate the sections or type of section taken place. What I did was clean up the code with proper semantics and structure. For example, there were quite a few divs in this code, so what i did was put the correct header semantic or an aside for the side bar. 
